@@ -1,6 +1,6 @@
-[![make.fun bounty](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=roast-your-own-agent)
-[![rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/zp1206849221-sketch/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=roast-your-own-agent)
-[![reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/zp1206849221-sketch/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=roast-your-own-agent)
+[![make.fun bounty](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=roast-your-own-agent-febri)
+[![rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/zp1206849221-sketch/roast-your-own-agent-febri/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=roast-your-own-agent-febri)
+[![reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/zp1206849221-sketch/roast-your-own-agent-febri/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=roast-your-own-agent-febri)
 
 # Roast Your Own Agent
 
